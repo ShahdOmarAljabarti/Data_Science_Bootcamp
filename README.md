@@ -1,2 +1,1 @@
-# Data_Science_Bootcamp 
-Cardiovascular_Disease_Prediction
+# Cardiovascular Disease Prediction
