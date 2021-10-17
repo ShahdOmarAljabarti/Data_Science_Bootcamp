@@ -5,4 +5,4 @@ Cardiovascular disease prediction project aims to explore the different features
   * [MVP](https://github.com/ShahdOmarAljabarti/Data_Science_Bootcamp/tree/main/MVP)
     * It contains a small amount of work that address the Cardiovascular Disease Prediction project's key purpose using Jupyter Notebook. 
   * [Data](https://github.com/ShahdOmarAljabarti/Data_Science_Bootcamp/tree/main/Data)
-    * It contains cardiovascular disease data in CSV file 
+    * It contains a CSV file of cardiovascular disease data.
