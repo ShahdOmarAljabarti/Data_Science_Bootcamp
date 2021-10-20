@@ -6,3 +6,5 @@ Cardiovascular disease prediction project aims to explore the different features
     * It contains a small amount of work that address the Cardiovascular Disease Prediction project's key purpose using Jupyter Notebook. 
   * [Data](https://github.com/ShahdOmarAljabarti/Data_Science_Bootcamp/tree/main/Data)
     * It contains a CSV file of cardiovascular disease data.
+  * [Final Deliverable](https://github.com/ShahdOmarAljabarti/Data_Science_Bootcamp/tree/main/Final_Deliverable)
+    * It contains the final report, presentation and code.
